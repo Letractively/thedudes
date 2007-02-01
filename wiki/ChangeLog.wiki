@@ -1,7 +1,7 @@
 #summary Version information
 
 ||1.6.1||Fixed Metacritic. Removed Peerflix support.||
-||*1.6*||Major code reorganization to make adding new sites and features easier.||
+|| *1.6* ||Major code reorganization to make adding new sites and features easier.||
 ||1.5.14||Added "Intelliflix" rental site.||
 ||1.5.13b||Fixed no-piracy version, and udpated version numbers.||
 ||1.5.13||Added PeerFlix.||
@@ -15,8 +15,9 @@
 ||1.5.3||Added GreenCine by request.||
 ||1.5.2||Added All Movie Guide by request.||
 ||1.5.1||Fixed close button and preference boxes. (The code that attached events to these elements was incorrect.)||
-||*1.5*||Updated to work with Firefox 1.5 and Greasemonkey 0.6.4.||
+|| *1.5* ||Updated to work with Firefox 1.5 and Greasemonkey 0.6.4.||
 ||0.8.9||Fixes links on Blockbuster pages by iteratively removing bracket pairs until no more are left (thanks to Derek Wilson.)||
 ||0.8.8||Works on more kinds of Yahoo! movie pages.||
 ||0.8.7.1||Now works with Greasemonkey 0.3.5. Links will be shown to all sites, and you can no longer edit prefrences, until Greasemonkey fixes their current security problem. Updated XPath for Rotten Tomatoes (thanks to Gary Crouse.)||
 ||0.8.7||Per request, links are now added to Amazon's DVD and showtime pages.||
+
