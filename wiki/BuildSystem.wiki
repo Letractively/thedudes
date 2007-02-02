@@ -3,7 +3,7 @@
 = Requirements =
 
   * Ruby
-  * Rake
+  * [http://rake.rubyforge.org/ Rake]
 
 = Building =
 
@@ -17,4 +17,3 @@ Run `rake` from a terminal in the project's root folder.
 = Acknowledgments =
 
 This project cribbed its build system from [http://www.prototypejs.org/ Prototype].
-
