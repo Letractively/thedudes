@@ -7,7 +7,7 @@
 
 = Building =
 
-Run `rake` from a terminal in the project's root folder.
+Run `rake` in the project's root folder.
 
 = Outputs =
 
