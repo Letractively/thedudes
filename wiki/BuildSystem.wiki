@@ -1,0 +1,20 @@
+#summary How to build this project.
+
+= Requirements =
+
+  * Ruby
+  * Rake
+
+= Building =
+
+Run `rake` from a terminal in the project's root folder.
+
+= Outputs =
+
+  * user.js scripts for The Movide Dude and The Game Dude in the _fill this in_ folder.
+  * A tarball of the entire project in the `dist` folder.
+
+= Acknowledgments =
+
+This project cribbed its build system from [http://www.prototypejs.org/ Prototype].
+
