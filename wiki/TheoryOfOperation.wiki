@@ -1,4 +1,4 @@
-#summary How _The Movie Dude_ works.
+#summary How The Movie Dude works.
 
 This topic will give an overview of how _The Movie Dude_ works.
 
