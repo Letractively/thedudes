@@ -1,4 +1,4 @@
-#summary Site definitions supplied by _The Movie Dude_ users.
+#summary Site definitions supplied by _The_Movie_Dude_ users.
 
 === Cinema.de ===
 Provided by [http://userscripts.org/users/35908 bobielawlintine]:
@@ -45,4 +45,3 @@ scanURL: "summize.com",
 icon: "http://summize.com/favicon.ico"
 },
 }}}
-
