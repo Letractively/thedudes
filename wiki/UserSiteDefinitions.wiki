@@ -26,7 +26,7 @@ scanURL: "lakenet.llcoop.org",
 },
 }}}
 
-=== OFDB ===
+=== OFDb ===
 Provided by [http://userscripts.org/users/35908 bobielawlintine] and [http://userscripts.org/users/32123 georgie]:
 {{{
 ofdb: {
