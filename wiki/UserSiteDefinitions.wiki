@@ -1,0 +1,48 @@
+#summary Site definitions supplied by _The Movie Dude_ users.
+
+=== Cinema.de ===
+Provided by [http://userscripts.org/users/35908 bobielawlintine]:
+{{{
+cinema_de: {
+name: "Cinema.de",
+link: "http://www.cinema.de/filmlexikon/filmarchiv?suchtyp=filmarchiv&o_titel={search}",
+icon: "http://www.cinema.de/favicon.ico",
+scanURL: "cinema.de"
+},
+}}}
+
+
+=== Grand Rapids Library ===
+Provided by [http://userscripts.org/users/36224 Mark Zinck]:
+{{{
+GRPL: {
+name: "Grand Rapids Library",
+link: "http://lakenet.llcoop.org/search/a?searchtype=t&searcharg={search}&SORT=D&searchscope=1&submit.x=14&submit.y=20&submit=Submit",
+icon: "http://www.grpl.org/favicon.ico",
+scanURL: "lakenet.llcoop.org",
+},
+}}}
+
+=== OFDB ===
+Provided by [http://userscripts.org/users/35908 bobielawlintine] and [http://userscripts.org/users/32123 georgie]:
+{{{
+ofdb: {
+name: "OFDb",
+icon: "http://www.ofdb.de/favicon.ico",
+link: "http://www.ofdb.de/view.php?page=suchergebnis&SText={search}",
+scanURL: "ofdb.de",
+},
+}}}
+
+=== Summize ===
+Provided by [http://userscripts.org/users/4463 neko]:
+{{{
+summize: {
+name: "Summize",
+link: "http://www.summize.com/topic/{search}?f=t",
+xpath: "//td/h1/b|//b/h1",
+scanURL: "summize.com",
+icon: "http://summize.com/favicon.ico"
+},
+}}}
+
