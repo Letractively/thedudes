@@ -1,4 +1,7 @@
-#summary Site definitions supplied by _The_Movie_Dude_ users.
+#summary Site definitions supplied by The Movie Dude users.
+
+These definitions work as of version 1.7.x. Future versions may break compatibility, especially with the `link` syntax.
+
 
 === Cinema.de ===
 Provided by [http://userscripts.org/users/35908 bobielawlintine]:
