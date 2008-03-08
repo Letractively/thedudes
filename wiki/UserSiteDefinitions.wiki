@@ -37,6 +37,18 @@ scanURL: "ofdb.de",
 },
 }}}
 
+=== SideReel ===
+Provided by [http://userscripts.org/users/4463 neko]:
+{{{
+sidereel: {
+name: "SideReel",
+link: "http://www.sidereel.com/_search?searchQuery={search}",
+icon: "http://www.watch-movies.net/favicon.ico",
+scanURL:"sidereel.com",
+xpath:"//div[@id='movie']/div[@id='head']/h1",
+},
+}}}
+
 === Summize ===
 Provided by [http://userscripts.org/users/4463 neko]:
 {{{
@@ -46,5 +58,16 @@ link: "http://www.summize.com/topic/{search}?f=t",
 xpath: "//td/h1/b|//b/h1",
 scanURL: "summize.com",
 icon: "http://summize.com/favicon.ico"
+},
+}}}
+
+=== YouTorrent ===
+Provided by [http://userscripts.org/users/4463 neko]:
+{{{
+YouTorrent: {
+name: "YouTorrent",
+link: "http://www.youtorrent.com/tag/?q={search}",
+icon: "http://www.youtorrent.com/favicon.ico",
+scanURL: "youtorrent.com",
 },
 }}}
